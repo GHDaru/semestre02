@@ -19,7 +19,7 @@ import re
 # Import module for iteration
 import itertools
 # Import module for function development
-#from typing import Union, List, Tuple
+from typing import Union, List, Tuple
 # Import module for TF-IDF
 from sklearn.feature_extraction.text import TfidfVectorizer,TfidfTransformer, CountVectorizer
 # Import module for cosine similarity
