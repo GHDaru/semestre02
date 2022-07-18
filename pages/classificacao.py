@@ -1,17 +1,17 @@
-from turtle import update
+#from turtle import update
 from matplotlib.pyplot import show
 import pandas as pd  # pip install pandas openpyxl
-import plotly.express as px
-from requests import head  # pip install plotly-express
+#import plotly.express as px
+#from requests import head  # pip install plotly-express
 import streamlit as st  # pip install streamlit
-import sys
-import json
+#import sys
+#import json
 from unidecode import unidecode
-import pyautogui
+#import pyautogui
 # Import module for data manipulation
-import pandas as pd
+#import pandas as pd
 # Import module for linear algebra
-import numpy as np
+#import numpy as np
 # Import module for Fuzzy string matching
 from fuzzywuzzy import fuzz, process
 # Import module for regex
@@ -19,7 +19,7 @@ import re
 # Import module for iteration
 import itertools
 # Import module for function development
-from typing import Union, List, Tuple
+#from typing import Union, List, Tuple
 # Import module for TF-IDF
 from sklearn.feature_extraction.text import TfidfVectorizer,TfidfTransformer, CountVectorizer
 # Import module for cosine similarity
